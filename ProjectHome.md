@@ -1,0 +1,1 @@
+This is a simple portable application, primarily targeting Android for managing an inventory of assets. We intend to integrate with bar-code scanners and location information to track where the assets currently reside
